@@ -4,6 +4,8 @@ Simple case for the Tengucon 2.0 badge.
 
 I printed in PLA with support material, see included images for more info.
 
+Also, I used ```Support Material → XY Separation Between Object and Support 150%``` for easy support removal.
+
 <img src="image/badge_rl_02.jpg" alt="Badge case preview" width="200" />
 
 Feel free to edit via the step file.
