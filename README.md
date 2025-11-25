@@ -12,11 +12,9 @@ Feel free to edit via the step file.
 
 ## Hardware Notes
 
-This build used the following parts only because they were on hand; they are **not** specifically recommended:
+There is an optional friction fit 3D printable screw to connect the board at the top. Depending on your printer settings you may need to scale the screw as the tolerances are intended to be very small.
+
+This build initially used the following parts only because they were on hand; they are **not** specifically recommended:
 
 - https://www.monotaro.com/p/7429/7756/
 - https://www.monotaro.com/p/4221/9536/
-
-A better approach might be:
-- Friction fit 3D printed bolts (Extra easy part)
-- A snap-on case with no additional hardware (Minor redesign) 
