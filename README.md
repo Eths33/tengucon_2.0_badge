@@ -17,4 +17,6 @@ This build used the following parts only because they were on hand; they are **n
 - https://www.monotaro.com/p/7429/7756/
 - https://www.monotaro.com/p/4221/9536/
 
-A better approach might be a snap-on case with no additional hardware.
+A better approach might be:
+- Friction fit 3D printed bolts (Extra easy part)
+- A snap-on case with no additional hardware (Minor redesign) 
